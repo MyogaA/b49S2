@@ -1,6 +1,6 @@
-import ITodos from "../interface/Provinsi";
+import Provinsies from "../../interface/Provinsies";
 
-const Todos: ITodos[] = [
+const Provinsi: Provinsies[] = [
   {
     id: 1,
     title: "Mobile legends",
@@ -18,4 +18,4 @@ const Todos: ITodos[] = [
   }
 ]
 
-export default Todos;
+export default Provinsi;
