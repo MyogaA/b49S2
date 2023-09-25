@@ -3,18 +3,15 @@ import Provinsies from "../../interface/Provinsies";
 const Provinsi: Provinsies[] = [
   {
     id: 1,
-    title: "Mobile legends",
-    isDone: false
+    title: "Jawa barat"
   },
   {
     id: 2,
-    title: "Coding",
-    isDone: true
+    title: "Jawa Timur"
   },
   {
     id: 3,
-    title: "Mandi (optional)",
-    isDone: false
+    title: "Jawa Tengah)"
   }
 ]
 
